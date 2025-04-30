@@ -1,0 +1,14 @@
+/Users/heatherthacker/RiderProjects/ConsoleTetris/ConsoleTetris/bin/Debug/net9.0/ConsoleTetris
+/Users/heatherthacker/RiderProjects/ConsoleTetris/ConsoleTetris/bin/Debug/net9.0/ConsoleTetris.deps.json
+/Users/heatherthacker/RiderProjects/ConsoleTetris/ConsoleTetris/bin/Debug/net9.0/ConsoleTetris.runtimeconfig.json
+/Users/heatherthacker/RiderProjects/ConsoleTetris/ConsoleTetris/bin/Debug/net9.0/ConsoleTetris.dll
+/Users/heatherthacker/RiderProjects/ConsoleTetris/ConsoleTetris/bin/Debug/net9.0/ConsoleTetris.pdb
+/Users/heatherthacker/RiderProjects/ConsoleTetris/ConsoleTetris/obj/Debug/net9.0/ConsoleTetris.GeneratedMSBuildEditorConfig.editorconfig
+/Users/heatherthacker/RiderProjects/ConsoleTetris/ConsoleTetris/obj/Debug/net9.0/ConsoleTetris.AssemblyInfoInputs.cache
+/Users/heatherthacker/RiderProjects/ConsoleTetris/ConsoleTetris/obj/Debug/net9.0/ConsoleTetris.AssemblyInfo.cs
+/Users/heatherthacker/RiderProjects/ConsoleTetris/ConsoleTetris/obj/Debug/net9.0/ConsoleTetris.csproj.CoreCompileInputs.cache
+/Users/heatherthacker/RiderProjects/ConsoleTetris/ConsoleTetris/obj/Debug/net9.0/ConsoleTetris.dll
+/Users/heatherthacker/RiderProjects/ConsoleTetris/ConsoleTetris/obj/Debug/net9.0/refint/ConsoleTetris.dll
+/Users/heatherthacker/RiderProjects/ConsoleTetris/ConsoleTetris/obj/Debug/net9.0/ConsoleTetris.pdb
+/Users/heatherthacker/RiderProjects/ConsoleTetris/ConsoleTetris/obj/Debug/net9.0/ConsoleTetris.genruntimeconfig.cache
+/Users/heatherthacker/RiderProjects/ConsoleTetris/ConsoleTetris/obj/Debug/net9.0/ref/ConsoleTetris.dll
